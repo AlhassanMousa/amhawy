@@ -1,3 +1,5 @@
+alert the show on mobile screen after crash 
+
 java.lang.IllegalStateException: java.lang.NoSuchFieldException: fill
 	at com.horcrux.svg.b0.a0(Unknown Source:93)
 	at com.horcrux.svg.l.h0(Unknown Source:52)
